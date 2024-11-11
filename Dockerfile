@@ -29,6 +29,7 @@ RUN apt-get update \
         r-cran-urlchecker \
         r-cran-tinytex \
         r-cran-sirt \
+        r-cran-nonnest2 \
         qpdf \ 
     && apt-get purge -y --auto-remove \
     && rm -rf /var/lib/apt/lists/*
