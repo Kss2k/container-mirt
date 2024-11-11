@@ -17,6 +17,7 @@ RUN apt-get update \
         r-cran-devtools \
         r-cran-roxygen2 \
         r-cran-rmarkdown \
+        r-cran-markdown \
         sudo \
         r-cran-pkgdown \
         r-cran-usethis \
